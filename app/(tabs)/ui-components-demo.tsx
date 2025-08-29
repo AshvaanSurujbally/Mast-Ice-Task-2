@@ -35,7 +35,7 @@ export default function UIComponentsDemo() {
         
         {/* Component 1: TouchableOpacity */}
         <View style={styles.componentSection}>
-          <Text style={styles.componentTitle}>1. TouchableOpacity</Text>
+          <Text style={styles.componentTitle}>1. TouchableOpacity This took a long time </Text>
           <Text style={styles.componentDescription}>
             TouchableOpacity makes buttons that change opacity when touched.
           </Text>
